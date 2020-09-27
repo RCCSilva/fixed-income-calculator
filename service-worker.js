@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/renda-fixa/precache-manifest.d48792f9ad70076dd96985a366e3f2f0.js"
+  "/renda-fixa/precache-manifest.219b237446040cefc7791d5babf6d642.js"
 );
 
 self.addEventListener('message', (event) => {
