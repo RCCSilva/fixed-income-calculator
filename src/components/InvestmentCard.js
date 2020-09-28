@@ -8,7 +8,7 @@ const toPercentage = (value) => {
 
 const InvestmentCard = (props) => {
     return (
-        <div className='flex items-center justify-around w-full bg-teal-300 py-4 rounded'>
+        <div className='flex items-center my-1 justify-around w-full bg-teal-300 py-4 rounded'>
             <div className={valueClass}>
                 {props.name}
             </div>
