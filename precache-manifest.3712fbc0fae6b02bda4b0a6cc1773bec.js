@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef31eab5758b5f7f27d0b927d0f38333",
+    "revision": "3c9dcdb098dc2d7f3893458e4baf53e6",
     "url": "/renda-fixa/index.html"
   },
   {
-    "revision": "bcb5193d6aaac49c9d90",
+    "revision": "fd48e7b8d74573210657",
     "url": "/renda-fixa/static/css/main.241cbd23.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/renda-fixa/static/js/2.fd55f9b3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bcb5193d6aaac49c9d90",
-    "url": "/renda-fixa/static/js/main.cf084404.chunk.js"
+    "revision": "fd48e7b8d74573210657",
+    "url": "/renda-fixa/static/js/main.bc4ed253.chunk.js"
   },
   {
     "revision": "c06ad2d34b5ccf3b5609",

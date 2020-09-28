@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/renda-fixa/static/css/main.241cbd23.chunk.css",
-    "main.js": "/renda-fixa/static/js/main.cf084404.chunk.js",
-    "main.js.map": "/renda-fixa/static/js/main.cf084404.chunk.js.map",
+    "main.js": "/renda-fixa/static/js/main.bc4ed253.chunk.js",
+    "main.js.map": "/renda-fixa/static/js/main.bc4ed253.chunk.js.map",
     "runtime-main.js": "/renda-fixa/static/js/runtime-main.d111b801.js",
     "runtime-main.js.map": "/renda-fixa/static/js/runtime-main.d111b801.js.map",
     "static/js/2.fd55f9b3.chunk.js": "/renda-fixa/static/js/2.fd55f9b3.chunk.js",
     "static/js/2.fd55f9b3.chunk.js.map": "/renda-fixa/static/js/2.fd55f9b3.chunk.js.map",
     "index.html": "/renda-fixa/index.html",
-    "precache-manifest.2dff0c462e601922b3f9b253466db459.js": "/renda-fixa/precache-manifest.2dff0c462e601922b3f9b253466db459.js",
+    "precache-manifest.3712fbc0fae6b02bda4b0a6cc1773bec.js": "/renda-fixa/precache-manifest.3712fbc0fae6b02bda4b0a6cc1773bec.js",
     "service-worker.js": "/renda-fixa/service-worker.js",
     "static/css/main.241cbd23.chunk.css.map": "/renda-fixa/static/css/main.241cbd23.chunk.css.map",
     "static/js/2.fd55f9b3.chunk.js.LICENSE.txt": "/renda-fixa/static/js/2.fd55f9b3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d111b801.js",
     "static/js/2.fd55f9b3.chunk.js",
     "static/css/main.241cbd23.chunk.css",
-    "static/js/main.cf084404.chunk.js"
+    "static/js/main.bc4ed253.chunk.js"
   ]
 }
